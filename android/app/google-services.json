@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "122862987212",
+    "project_id": "ecommerce-2dace",
+    "storage_bucket": "ecommerce-2dace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122862987212:android:2162bdc763404948305f69",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122862987212-houd88j7qt5g46rba03096ut136v82gp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "808d87fa5e0b086d2a46b6324fcbc98b45becf28"
+          }
+        },
+        {
+          "client_id": "122862987212-g0d8ve4qgak2jd467peaen2db1go1eq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrkfd0xe_ZV10G42cTQtdNHmD2FjJZcSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122862987212-g0d8ve4qgak2jd467peaen2db1go1eq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
